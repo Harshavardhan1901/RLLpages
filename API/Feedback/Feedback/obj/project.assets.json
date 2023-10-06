@@ -3367,11 +3367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\API\\Feedback\\Feedback\\Feedback.csproj",
+      "projectUniqueName": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\Web Pages\\API\\Feedback\\Feedback\\Feedback.csproj",
       "projectName": "Feedback",
-      "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\API\\Feedback\\Feedback\\Feedback.csproj",
+      "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\Web Pages\\API\\Feedback\\Feedback\\Feedback.csproj",
       "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\API\\Feedback\\Feedback\\obj\\",
+      "outputPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\H\\Web Pages\\API\\Feedback\\Feedback\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
